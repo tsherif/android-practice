@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True dat</string>
+    <string name="false_button">Nuh uh</string>
+    <string name="correct_toast">Yes!</string>
+    <string name="incorrect_toast">Not even close!</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_oceans">The pacific ocean is so BIG!</string>
+    <string name="question_mideast">EGYPT!</string>
+    <string name="question_africa">Smoke some shisha!</string>
+    <string name="question_americas">The Amazon river, so dope THO!</string>
+    <string name="question_asia">Sushi is good!</string>
+</resources>
